@@ -39,12 +39,12 @@ A modern, spreadsheet-like web application built with **Next.js**, **React**, an
 
 ## 🧑‍💼 Maintainer
 
-**Your Name**  
-[GitHub](https://github.com/prn9v) | [LinkedIn](www.linkedin.com/in/pranav-deshmukh-rcoem)
+**Pranav Deshmukh**  
+[GitHub](https://github.com/prn9v) | [LinkedIn](https://www.linkedin.com/in/pranav-deshmukh-rcoem/)
 
 
 
 
 ## Deploy on Vercel
 
-
+[Link](https://excel-intern-assignment.vercel.app/)
