@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📊 Spreadsheet UI (Next.js)
 
-## Getting Started
+A modern, spreadsheet-like web application built with **Next.js**, **React**, and **Tailwind CSS**. This project showcases a responsive, accessible table UI with features like column resizing, visibility toggles, and toolbar actions — ideal for UI/UX demonstrations or internal tools.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- ✅ **Responsive spreadsheet table UI**
+- 📏 **Resizable columns** — drag to resize column headers
+- 👁️ **Column visibility toggles** — control visibility via toolbar dropdown
+- 🛠️ **Toolbar actions** — Import, Export, Share, New Action, and more
+- 🧩 **Section headers** — customizable with icons and color tags
+- 🧭 **Tab navigation** — clean and intuitive interface
+- ♿ **Accessible design** — full keyboard navigation support
+- 🧑‍💻 **TypeScript support** — static type safety with runtime guards
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ⚙️ Setup
 
-## Learn More
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/prn9v/EXCEL-INTERN_ASSIGNMENT.git
+   npm install
+   npm run dev
+   npm run lint
+   ```
+  The app will be available at http://localhost:3000
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠 Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
+
+## 🧑‍💼 Maintainer
+
+**Your Name**  
+[GitHub](https://github.com/prn9v) | [LinkedIn](www.linkedin.com/in/pranav-deshmukh-rcoem)
+
+
+
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
